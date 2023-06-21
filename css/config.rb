@@ -6,7 +6,7 @@
 
 #########
 # 1. Set this to the root of your project when deployed:
-http_path = "/"
+http_path = "/paddy"
 
 # 2. probably don't need to touch these
 css_dir = "../css"
